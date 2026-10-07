@@ -5,8 +5,9 @@
   <h3>MS Student @ UC San Diego</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/jake-j-kim">LinkedIn</a> &nbsp;&bull;&nbsp;
-    <a href="mailto:jak098@ucsd.edu">Email</a>
+    <a href="https://www.linkedin.com/in/jake-j-kim">LinkedIn</a> &nbsp;&bull;&nbsp; 
+    <a href="mailto:jak098@ucsd.edu">Email</a> &nbsp;&bull;&nbsp;
+    <a href="https://github.com/jakecreate">Github</a>
   </p>
 </div>
 
