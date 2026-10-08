@@ -45,7 +45,7 @@ Outside of technical work, I play chess, read books on human psychology, love to
     <td width="75%">
       <h3>Undergraduate Research Assistant</h3>
       <h4>Motion Planning Lab @ UC Riverside &nbsp;|&nbsp; June 2025 – October 2025</h4>
-      <p>Under the mentorship of Prof. Ioannis Karamouzas, I pursued to find representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into the latent space, I discovered structure clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
+      <p>Under the mentorship of Prof. Ioannis Karamouzas, I pursued to find representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into the latent space, I discovered clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
       <p><b>Tools & Tech:</b> <i>PyTorch, Python, Autoencoders, NumPy, Git</i></p>
     </td>
   </tr>
