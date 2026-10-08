@@ -78,7 +78,7 @@ Outside of technical work, I play chess, read books on human psychology, love to
     </td>
     <td width="60%">
       <h3><a href="https://github.com/jakecreate/machine-learning-from-scratch">Machine Learning From Scratch</a></h3>
-      <p>This repository contains fundamental machine learning algorithms built without high-level frameworks. It includes custom code for optimization, loss calculation, and backpropagation. I built this project to develop a deep understanding of core model mechanics.</p>
+      <p>This repository contains fundamental machine learning algorithms built without high-level frameworks. It includes custom code for optimization, loss calculation, and more. I built this project to develop a deep understanding of core model mechanics.</p>
       <p><b>Tech Stack:</b> <i>Python, NumPy, Matplotlib, Linear Algebra</i></p>
     </td>
   </tr>
