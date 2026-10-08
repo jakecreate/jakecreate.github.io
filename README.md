@@ -31,7 +31,7 @@ Outside of technical work, I play chess, read books on human psychology, love to
     <td width="75%">
       <h3>Data Science Challenge Intern</h3>
       <h4>Lawrence Livermore National Lab &nbsp;|&nbsp; July 2026 </h4>
-      <p>I lived in Livermore for an intensive two-week challenge, collaborating in a team of three to automate the analysis of additively manufactured lattice structures. Working with high-resolution 3D CT scan data from the Additive Manufacturing Laboratory (AML), we designed <b>LitBloomer</b>—an autonomous multi-agent pipeline that retrieves relevant literature and generates tailored exploratory data analysis workflows for each sample. We concluded the program by presenting and defending our findings during a poster session evaluated by laboratory research scientists.</p>
+      <p>I lived in Livermore for an intensive two-week challenge, collaborating in a team of three to automate the analysis of additively manufactured lattice structures. Working with 3D CT scan data from the Additive Manufacturing Laboratory (AML), we designed <b>LitBloomer</b>—an autonomous multi-agent pipeline that retrieves relevant literature and generates tailored exploratory data analysis workflows for each sample. We concluded the program by presenting and defending our findings during a poster session evaluated by laboratory research scientists.</p>
       <p><b>Tools & Tech:</b> <i>Codex CLI, FastMCP, Python</i></p>
     </td>
   </tr>
@@ -45,7 +45,7 @@ Outside of technical work, I play chess, read books on human psychology, love to
     <td width="75%">
       <h3>Undergraduate Research Assistant</h3>
       <h4>Motion Planning Lab @ UC Riverside &nbsp;|&nbsp; June 2025 – October 2025</h4>
-      <p>Under the mentorship of Prof. Ioannis Karamouzas, I investigated unsupervised representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into a lower-dimensional latent space, I uncovered structural manifolds that revealed distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
+      <p>Under the mentorship of Prof. Ioannis Karamouzas, I pursued to find representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into a lower-dimensional latent space, I discovered structured in the latent space that revealed clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
       <p><b>Tools & Tech:</b> <i>PyTorch, Python, Autoencoders, NumPy, Git</i></p>
     </td>
   </tr>
