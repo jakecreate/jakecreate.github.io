@@ -13,9 +13,9 @@
 
 ## 👋 About Me
 
-How do state-of-the-art models capture patterns, relationships, and the underlying structures that make them seem intelligent? This fundamental question drives my growing interest in representation learning and the field of mechanistic interpretability.
+How do state-of-the-art models capture complex patterns and relationships to exhibit intelligent behavior? This question drives my curiosity about representation learning and my desire to explore the field of mechanistic interpretability.
 
-I am a first-year Computer Science graduate student looking to build a strong foundation in deep learning. My goal is to develop my skills as a Machine Learning Engineer and grow as a researcher, allowing me to satiate my intellectual curiosity while contributing to impactful work.
+As a first-year Computer Science graduate student, I am focused on strengthening my foundations in deep learning. I aim to develop the engineering and research skills necessary to satisfy my intellectual curiosity and build impactful, real-world AI applications.
 
 In my free time, I love to play chess, read books on human psychology, hike, and sing.
 
