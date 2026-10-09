@@ -13,11 +13,11 @@
 
 ## 👋 About Me
 
-Critical sectors such as healthcare, finance, and law increasingly integrate Large Language Models (LLMs) into diverse workflows, ranging from conversational tools to autonomous agents. Regardless of whether current systems approach artificial general intelligence, deployed LLM agents can create real-world risks if their failure modes remain unaddressed. This challenge motivates my work: I want to help make AI systems safer, more reliable, and better understood.
+How do state-of-the-art models capture patterns, relationships, and the underlying structures that make them seem intelligent? This fundamental question drives my growing interest in representation learning and the field of mechanistic interpretability.
 
-I am currently a first-year graduate student in Computer Science at UC San Diego. My academic focus centers on representation learning, and I am exploring mechanistic interpretability to better understand how internal network representations function. My goal is to build strong foundations both as a machine learning engineer and as a researcher. I am actively seeking roles in machine learning engineering, data science, and research (both foundational and applied) across industry and academic labs.
+I am a first-year Computer Science graduate student looking to build a strong foundation in deep learning. My goal is to develop my skills as a Machine Learning Engineer and grow as a researcher, allowing me to satiate my intellectual curiosity while contributing to impactful work.
 
-Outside of technical work, I play chess, read books on human psychology, love to hike, and sing.
+In my free time, I love to play chess, read books on human psychology, hike, and sing.
 
 ---
 
