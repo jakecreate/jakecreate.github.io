@@ -17,7 +17,7 @@ In my free time, I love to play chess, read books on human psychology, hike, and
 
 ## 🧠 Learning from First Principles
 
-With modern libraries, it is easy to train models without ever looking under the hood. What I enjoy most about machine learning is slowing down to study it from **first principles**. Outside of class and research, I spend time working through ML/math textbooks and going down rabbit holes in technical articles—tracing the linear algebra, probability, and optimization mechanics that actually make these models work. For me, the most rewarding part of the field is when a mathematical derivation finally clicks and explains *why* a model succeeds or fails in practice.
+With modern libraries, it is easy to train models without ever looking under the hood. What I enjoy most about machine learning is slowing down to study it from **first principles**. Outside of class, I spend time working through ML/math textbooks and going down rabbit holes in technical articles—tracing the linear algebra, probability, and optimization mechanics that actually make these models work. For me, the most rewarding part of the field is when a mathematical derivation finally clicks and explains *why* a model succeeds or fails in practice.
 
 ---
 
@@ -32,7 +32,7 @@ With modern libraries, it is easy to train models without ever looking under the
       <h3>Data Science Challenge (DSC) Intern</h3>
       <h4>Lawrence Livermore National Laboratory &nbsp;|&nbsp; June 2026</h4>
       <p>During an intensive challenge in Livermore, I collaborated in a team of three to automate the structural analysis of additively manufactured lattice geometries (such as octet-truss structures). Working with 3D CT scan data from the Additive Manufacturing Laboratory (AML), I designed the multi-agent architecture for <b>LitBloomer</b>—an autonomous pipeline built with Codex CLI and FastMCP servers that retrieves relevant scientific literature and translates exploratory data analysis (EDA) methodologies into guided code execution for 3D skeletonization and strut diameter profiling. We concluded the program by presenting and defending our validation results to LLNL staff scientists across the computing and materials divisions.</p>
-      <p><b>Tools & Tech:</b> <i>Python, Codex CLI, FastMCP, Agentic Workflows, 3D CT Analysis</i></p>
+      <p><b>Tools & Tech:</b> <i>Python, Codex CLI, FastMCP</i></p>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ With modern libraries, it is easy to train models without ever looking under the
     <td width="72%">
       <h3>Research Assistant, Data Science</h3>
       <h4>Motion Planning Lab @ UC Riverside &nbsp;|&nbsp; June 2025 – October 2025</h4>
-      <p>Under the mentorship of Prof. Ioannis Karamouzas, I investigated low-dimensional representations for multi-agent spatiotemporal motion. I engineered a custom PyTorch data pipeline over 5.29M+ NBA tracking records (8,415 plays) and designed a 9-layer symmetric MLP Autoencoder (40-D input to 20-D latent bottleneck) to perform non-linear dimensionality reduction on 20-step player trajectories, achieving a <code>1.73e-5</code> test MSE. Projecting these sequences into the latent space revealed distinct clusters of movement patterns, directly motivating follow-up PhD research in latent-space trajectory clustering.</p>
+      <p>Under the mentorship of Prof. Ioannis Karamouzas, I pursued to find representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into the latent space, I discovered clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
       <p><b>Tools & Tech:</b> <i>PyTorch, Python, Autoencoders, Pandas, NumPy, Matplotlib</i></p>
     </td>
   </tr>
