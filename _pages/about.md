@@ -15,13 +15,9 @@ In my free time, I love to play chess, read books on human psychology, hike, and
 
 ---
 
-## 🧠 My Philosophy: Learning from First Principles
+## 🧠 Learning from First Principles
 
-Modern machine learning frameworks make it easy to treat models as black boxes. I strongly believe in stripping away high-level abstractions to understand core mathematical and optimization mechanics from **first principles**:
-
-* **Opening the Black Box:** Rather than relying solely on pre-built libraries, I enjoy implementing foundational algorithms, gradient-norm tracking, and divergence safeguards from scratch in pure NumPy to observe optimization dynamics and bias-variance trade-offs firsthand.
-* **Inspecting Latent & Embedding Spaces:** Whether I am projecting 20-step player trajectories into a 20-D autoencoder bottleneck to uncover movement clusters, or diagnosing embedding collapse (false-positive cosine similarities) in edge vision models, I focus on what the geometry of the representation space is actually telling us.
-* **Bridging Theory & Real-World Systems:** Clean math only matters if it translates reliably into practice—whether that means automating 3D CT scan analysis via multi-agent pipelines or containerizing models with Docker for edge hardware.
+With modern libraries, it is easy to train models without ever looking under the hood. What I enjoy most about machine learning is slowing down to study it from **first principles**. Outside of class and research, I spend time working through ML/math textbooks and going down rabbit holes in technical articles—tracing the linear algebra, probability, and optimization mechanics that actually make these models work. For me, the most rewarding part of the field is when a mathematical derivation finally clicks and explains *why* a model succeeds or fails in practice.
 
 ---
 
