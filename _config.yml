@@ -12,7 +12,7 @@ repository               : "jakecreate/jakecreate.github.io"
 # Site Author (Sidebar Profile)
 author:
   # Biographic information
-  avatar           : "/images/profile.png" # Replace /images/profile.png with your own photo
+  avatar           : "profile.png" # Replace /images/profile.png with your own photo
   name             : "Jake Kim"
   pronouns         : 
   bio              : "M.S. in Computer Science at UC San Diego"
