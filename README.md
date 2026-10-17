@@ -1,31 +1,112 @@
-## About Me
+---
+permalink: /
+title: "Hi, I'm Jake 👋"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-I am an M.S. student in Computer Science at **UC San Diego**[cite: 2], having previously earned my B.S. in Data Science at **UC Riverside**[cite: 2]. 
+How do state-of-the-art models capture complex patterns and relationships to exhibit intelligent behavior? This question drives my curiosity about **representation learning** and my desire to explore the field of **mechanistic interpretability**.
 
-What motivates me most in computer science and machine learning is bridging the gap between **theoretical mathematical foundations** and **real-world scientific and physical systems**. Whether I am designing multi-agent workflows to accelerate materials science research[cite: 2], compressing high-dimensional spatiotemporal trajectories[cite: 2], or deploying computer vision pipelines on edge hardware[cite: 2], I enjoy tackling problems where noisy, real-world data meets rigorous algorithmic design.
+As a first-year Computer Science M.S. student at **UC San Diego** (B.S. in Data Science, **UC Riverside**), I am focused on strengthening my foundations in deep learning and probabilistic reasoning. I aim to develop the research and engineering skills necessary to satisfy my intellectual curiosity and build impactful, real-world AI systems.
+
+In my free time, I love to play chess, read books on human psychology, hike, and sing.
 
 ---
 
-## My Approach & Philosophy
+## 🧠 My Philosophy: Learning from First Principles
 
-* **Learning from First Principles:** Modern ML frameworks make it easy to call `.fit()` or chain APIs without understanding what happens under the hood. I strongly believe in stripping away abstractions to understand the core math first—whether that means implementing gradient descent and regularized models from scratch in NumPy to watch how unscaled gradients explode[cite: 2], or inspecting embedding spaces directly to diagnose why a vision model is collapsing[cite: 2].
-* **Translating Theory into Production:** Clean math only matters if it runs reliably. I care deeply about the engineering details—data standardization, memory-efficient pipelines, and containerization[cite: 2]—that turn a fragile research notebook into a reproducible system.
+Modern machine learning frameworks make it easy to treat models as black boxes. I strongly believe in stripping away high-level abstractions to understand core mathematical and optimization mechanics from **first principles**:
 
----
-
-## Experience
-
-**Data Science Challenge (DSC) Intern** | *Lawrence Livermore National Laboratory (LLNL)* *(June 2026)*[cite: 2]
-* Worked at the intersection of agentic AI and materials science[cite: 2]. I designed the multi-agent architecture for **LitBloomer** using Codex CLI and FastMCP servers, building an autonomous Literature Agent that extracts exploratory data analysis (EDA) methodologies from scientific literature and translates them into guided code execution for 3D CT scan structural analysis (such as skeletonization and strut diameter profiling on octet-truss lattices)[cite: 2].
-
-**Research Assistant, Data Science** | *Motion Planning Lab, UC Riverside* *(June 2025 – Oct 2025)*[cite: 2]
-* Focused on spatiotemporal representation learning over 5.29M+ NBA player tracking records[cite: 2]. I engineered a custom PyTorch data pipeline and designed a 9-layer symmetric MLP Autoencoder to compress 20-step player trajectories into a compact latent bottleneck, achieving a $1.73 \times 10^{-5}$ test MSE[cite: 2].
+* **Opening the Black Box:** Rather than relying solely on pre-built libraries, I enjoy implementing foundational algorithms, gradient-norm tracking, and divergence safeguards from scratch in pure NumPy to observe optimization dynamics and bias-variance trade-offs firsthand.
+* **Inspecting Latent & Embedding Spaces:** Whether I am projecting 20-step player trajectories into a 20-D autoencoder bottleneck to uncover movement clusters, or diagnosing embedding collapse (false-positive cosine similarities) in edge vision models, I focus on what the geometry of the representation space is actually telling us.
+* **Bridging Theory & Real-World Systems:** Clean math only matters if it translates reliably into practice—whether that means automating 3D CT scan analysis via multi-agent pipelines or containerizing models with Docker for edge hardware.
 
 ---
 
-## Selected Projects
+## 💼 Experience
 
-* **Proactive Edge Attendance Tracker (PAT)** *(Python, PyTorch, OpenCV, Docker)*[cite: 2]  
-  An edge facial recognition pipeline running on a Raspberry Pi that chains SCRFD detection with MobileFaceNet embeddings[cite: 2]. When early tests suffered from embedding collapse (high false-positive cosine similarities), I diagnosed and resolved the issue at the preprocessing level by calibrating facial landmark alignment in OpenCV to eliminate black-edge padding artifacts[cite: 2].
-* **Foundational Machine Learning From Scratch** *(Python, NumPy, Matplotlib)*[cite: 2]  
-  A first-principles implementation of object-oriented Perceptron, Linear Regression, and $L_2$-regularized Logistic Regression models using pure NumPy[cite: 2]. Built custom utilities for $Z$-score standardization, polynomial feature expansion, $L_2$ gradient-norm tracking, and divergence safeguards to study optimization dynamics and bias-variance trade-offs firsthand[cite: 2].
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <img src="/images/presentation_at_llnl.jpeg" alt="LLNL Presentation Photo" width="100%">
+    </td>
+    <td width="72%">
+      <h3>Data Science Challenge (DSC) Intern</h3>
+      <h4>Lawrence Livermore National Laboratory &nbsp;|&nbsp; June 2026</h4>
+      <p>During an intensive challenge in Livermore, I collaborated in a team of three to automate the structural analysis of additively manufactured lattice geometries (such as octet-truss structures). Working with 3D CT scan data from the Additive Manufacturing Laboratory (AML), I designed the multi-agent architecture for <b>LitBloomer</b>—an autonomous pipeline built with Codex CLI and FastMCP servers that retrieves relevant scientific literature and translates exploratory data analysis (EDA) methodologies into guided code execution for 3D skeletonization and strut diameter profiling. We concluded the program by presenting and defending our validation results to LLNL staff scientists across the computing and materials divisions.</p>
+      <p><b>Tools & Tech:</b> <i>Python, Codex CLI, FastMCP, Agentic Workflows, 3D CT Analysis</i></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <img src="/images/mpl_ucr.png" alt="Motion Planning Lab Experience" width="100%">
+    </td>
+    <td width="72%">
+      <h3>Research Assistant, Data Science</h3>
+      <h4>Motion Planning Lab @ UC Riverside &nbsp;|&nbsp; June 2025 – October 2025</h4>
+      <p>Under the mentorship of Prof. Ioannis Karamouzas, I investigated low-dimensional representations for multi-agent spatiotemporal motion. I engineered a custom PyTorch data pipeline over 5.29M+ NBA tracking records (8,415 plays) and designed a 9-layer symmetric MLP Autoencoder (40-D input to 20-D latent bottleneck) to perform non-linear dimensionality reduction on 20-step player trajectories, achieving a <code>1.73e-5</code> test MSE. Projecting these sequences into the latent space revealed distinct clusters of movement patterns, directly motivating follow-up PhD research in latent-space trajectory clustering.</p>
+      <p><b>Tools & Tech:</b> <i>PyTorch, Python, Autoencoders, Pandas, NumPy, Matplotlib</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <!-- Project 1: Proactive Edge Attendance Tracker -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/jakecreate/proactive-edge-attendance-tracker">
+        <img src="/images/PAT_thumbnail.png" alt="Proactive Edge Attendance Tracker Preview" width="100%">
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/jakecreate/proactive-edge-attendance-tracker">Proactive Edge Attendance Tracker (PAT)</a></h3>
+      <p>An edge facial recognition pipeline deployed on a Raspberry Pi that automates classroom and workplace attendance while preserving user privacy and reducing network latency. The pipeline chains SCRFD detection and MobileFaceNet to project normalized image tensors into 256-D embeddings, classifying faces via KNN and weighted-average cosine similarity. To resolve early embedding collapse (false-positive cosine similarities above 0.9), I expanded bounding-box margins and calibrated facial landmark alignment using OpenCV to eliminate black-edge padding artifacts.</p>
+      <p><b>Tech Stack:</b> <i>Python, PyTorch, OpenCV, Docker, Raspberry Pi, MobileFaceNet</i></p>
+    </td>
+  </tr>
+
+  <!-- Project 2: Machine Learning From Scratch -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/jakecreate/machine-learning-from-scratch">
+        <img src="/images/logistic_regression_model.png" alt="Machine Learning From Scratch Preview" width="100%">
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/jakecreate/machine-learning-from-scratch">Foundational Machine Learning From Scratch</a></h3>
+      <p>A first-principles implementation of object-oriented Perceptron, Linear Regression, and L2-regularized Logistic Regression models built without high-level ML frameworks. Includes batch gradient descent with convergence tolerance thresholds, L2 gradient-norm tracking, divergence safeguards, and custom utilities for Z-score standardization and polynomial feature expansion (up to degree 5) to resolve unscaled gradient explosion and visualize decision boundaries.</p>
+      <p><b>Tech Stack:</b> <i>Python, NumPy, Matplotlib, Optimization, Linear Algebra</i></p>
+    </td>
+  </tr>
+
+  <!-- Project 3: YouTube Data Analysis -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/jakecreate/youtube_data_analysis">
+        <img src="/images/anomalies.png" alt="Outdoor Boys YouTube Data Analysis Preview" width="100%">
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/jakecreate/youtube_data_analysis">YouTube Data Analysis: Outdoor Boys</a></h3>
+      <p>An exploratory data analysis (EDA) project examining view counts, video length, anomalies, and upload patterns across the Outdoor Boys YouTube channel. Built as a foundational exploration into automated data extraction, cleaning, and statistical visualization.</p>
+      <p><b>Tech Stack:</b> <i>Python, Pandas, Matplotlib, Exploratory Data Analysis</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Let's Connect
+
+I welcome discussions on machine learning research, representation learning, engineering opportunities, and technical projects.
+
+Feel free to reach out via [Email](mailto:developjake@gmail.com) (or [jak098@ucsd.edu](mailto:jak098@ucsd.edu)) or connect with me on [LinkedIn](https://www.linkedin.com/in/jake-j-kim).
