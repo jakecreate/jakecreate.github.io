@@ -144,7 +144,12 @@ exclude:
   - tmp
   - vendor
   # Excluded unused template sections:
+  # Excluded unused template sections:
   - _posts
+  - _teaching
+  - _publications
+  - _portfolio
+  - _talks
   - _pages/cv.md
   - _pages/cv-json.md
   - _pages/markdown.md
@@ -153,6 +158,12 @@ exclude:
   - _pages/talks.html
   - _pages/teaching.html
   - _pages/portfolio.html
+  - _pages/talkmap.html
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
+  - _pages/tag-archive.html
 
 keep_files:
   - .git
@@ -179,19 +190,19 @@ kramdown:
   enable_coderay: false
 
 # Collections (Set output: false so Jekyll doesn't generate pages for these)
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+# collections:
+#   teaching:
+#     output: false
+#     permalink: /:collection/:path/
+#   publications:
+#     output: false
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: false
+#     permalink: /:collection/:path/
+#   talks:
+#     output: false
+#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
