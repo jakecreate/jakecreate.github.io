@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-How do state-of-the-art models capture complex patterns and relationships to exhibit intelligent behavior? This question drives my curiosity about **representation learning** and my desire to explore the field of **mechanistic interpretability**.
+I am a first-year M.S. student in Computer Science at **UC San Diego** (B.S. in Data Science, **UC Riverside**). I came to graduate school driven by two things: an intellectual curiosity about how modern AI systems actually work under the hood, and a desire to do purposeful work that applies these systems to high-impact problems in science and society.
 
-As a first-year Computer Science M.S. student at **UC San Diego** (B.S. in Data Science, **UC Riverside**), I am focused on strengthening my foundations in deep learning and probabilistic reasoning. I aim to develop the research and engineering skills necessary to satisfy my intellectual curiosity and build impactful, real-world AI systems.
+Specifically, I am fascinated by **representation learning**—how models capture complex structure from raw data, and how we can interpret and leverage those learned representations for downstream tasks across domains like biology, healthcare, and scientific computing. Lately, I have been working with **Hidden Markov Models (HMMs)** to infer latent states in sequential data, while exploring **mechanistic interpretability** as a lens to better understand and steer what models learn internally. 
 
-In my free time, I love to play chess, read books on human psychology, hike, and sing.
+Whether through research or engineering, my goal is to build a deep, adaptable toolkit for designing reliable ML systems that solve meaningful real-world problems.
+
+In my free time, I love playing chess, reading books on human psychology, hiking, and singing.
 
 ---
 
 ## 🧠 Learning from First Principles
 
-With modern libraries, it is easy to train models without ever looking under the hood. What I enjoy most about machine learning is slowing down to study it from **first principles**. Outside of class, I spend time working through ML/math textbooks and going down rabbit holes in technical articles—tracing the linear algebra, probability, and optimization mechanics that actually make these models work. For me, the most rewarding part of the field is when a mathematical derivation finally clicks and explains *why* a model succeeds or fails in practice.
+With modern libraries, it is easy to train models without ever looking under the hood. However, I believe that studying machine learning from **first principles** is the only way to truly understand a system—and ultimately, to come up with new ideas that push the field forward. Beyond that, I simply love the feeling of being awe-inspired by the mathematics behind today's state-of-the-art AI.
+
+Outside of class, I spend my free time going down mathematical rabbit holes—whether that means tracing the proof for why the Gaussian integral satisfies the axioms of probability (integrating to 1), or deriving the forward-backward dynamics of Hidden Markov Models from scratch. For me, the most rewarding part of machine learning is when a mathematical derivation finally clicks and informs how we design, debug, or apply a model in practice.
 
 ---
 
@@ -45,7 +49,7 @@ With modern libraries, it is easy to train models without ever looking under the
     <td width="72%">
       <h3>Research Assistant, Data Science</h3>
       <h4>Motion Planning Lab @ UC Riverside &nbsp;|&nbsp; June 2025 – October 2025</h4>
-      <p>Under the mentorship of Prof. Ioannis Karamouzas, I pursued to find representations for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into the latent space, I discovered clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
+      <p>Under the mentorship of Prof. Ioannis Karamouzas, I explored representation learning for multi-agent motion. I built a custom PyTorch autoencoder to perform non-linear dimensionality reduction on spatiotemporal sequence data from normalized NBA player trajectories. By projecting these sequences into the latent space, I discovered clusters of distinct movement patterns, directly motivating a PhD student in the lab to pursue latent-space clustering for her research.</p>
       <p><b>Tools & Tech:</b> <i>PyTorch, Python, Autoencoders, Pandas, NumPy, Matplotlib</i></p>
     </td>
   </tr>
