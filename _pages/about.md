@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year M.S. student in Computer Science at **UC San Diego** (B.S. in Data Science, **UC Riverside**). I came to graduate school driven by two things: an intellectual curiosity about how modern AI systems actually work under the hood, and a desire to do purposeful work that applies these systems to high-impact problems in science and society.
 
-Specifically, I am fascinated by **representation learning**—how models capture complex structure from raw data, and how we can interpret and leverage those learned representations for downstream tasks across domains like biology, healthcare, and scientific computing. Lately, I have been working with **Hidden Markov Models (HMMs)** to infer latent states in sequential data, while exploring **mechanistic interpretability** as a lens to better understand and steer what models learn internally. 
+Specifically, I am fascinated by **representation learning**—how models capture complex structure from raw data, and how we can interpret and leverage those learned representations for downstream tasks across domains like biology, healthcare, and other high-impact fields. Lately, I have been working with **Hidden Markov Models (HMMs)** to infer latent states in sequential data, while exploring **mechanistic interpretability** as a lens to better understand and steer what models learn internally. 
 
 Whether through research or engineering, my goal is to build a deep, adaptable toolkit for designing reliable ML systems that solve meaningful real-world problems.
 
@@ -19,9 +19,9 @@ In my free time, I love playing chess, reading books on human psychology, hiking
 
 ## 🧠 Learning from First Principles
 
-With modern libraries, it is easy to train models without ever looking under the hood. However, I believe that studying machine learning from **first principles** is the only way to truly understand a system—and ultimately, to come up with new ideas that push the field forward. Beyond that, I simply love the feeling of being awe-inspired by the mathematics behind today's state-of-the-art AI.
+With modern libraries, it is easy to train models without ever looking under the hood. However, I believe that reasoning from first principles is not only essential for truly understanding a system, but also the best catalyst for coming up with novel solutions to computational problems and advancing the field. Beyond that, I simply love the feeling of being awe-inspired by the mathematics behind today's state-of-the-art AI.
 
-Outside of class, I spend my free time going down mathematical rabbit holes—whether that means tracing the proof for why the Gaussian integral satisfies the axioms of probability (integrating to 1), or deriving the forward-backward dynamics of Hidden Markov Models from scratch. For me, the most rewarding part of machine learning is when a mathematical derivation finally clicks and informs how we design, debug, or apply a model in practice.
+Outside of class, I spend my free time going down mathematical rabbit holes—whether that means tracing the proof for why the Gaussian distribution satisfies the second axiom of probability, or deriving the forward-backward dynamics of Hidden Markov Models from scratch. For me, the most rewarding part of machine learning is when a mathematical derivation finally clicks and informs how we design, debug, or apply a model in practice.
 
 ---
 
