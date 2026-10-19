@@ -11,7 +11,7 @@ I am a first-year M.S. student in Computer Science at **UC San Diego** (B.S. in 
 
 Specifically, I am fascinated by **representation learning**—how models capture complex structure from raw data, and how we can interpret and leverage those learned representations for downstream tasks across domains like biology, healthcare, and other high-impact fields. Lately, I have been working with **Hidden Markov Models (HMMs)** to infer latent states in sequential data, while exploring **mechanistic interpretability** as a lens to better understand and steer what models learn internally. 
 
-Whether through research or engineering, my goal is to build a deep, adaptable toolkit for designing reliable ML systems that solve meaningful real-world problems.
+Whether through research or engineering, my goal is to build a deep, adaptable toolkit for designing reliable AI systems that solve meaningful real-world problems.
 
 In my free time, I love playing chess, reading books on human psychology, hiking, and singing.
 
@@ -34,7 +34,7 @@ Outside of class, I spend my free time going down mathematical rabbit holes—wh
     </td>
     <td width="72%">
       <h3>Data Science Challenge (DSC) Intern</h3>
-      <h4>Lawrence Livermore National Laboratory &nbsp;|&nbsp; June 2026</h4>
+      <h4>Lawrence Livermore National Laboratory &nbsp;|&nbsp; July 2026</h4>
       <p>During an intensive challenge in Livermore, I collaborated in a team of three to automate the structural analysis of additively manufactured lattice geometries (such as octet-truss structures). Working with 3D CT scan data from the Additive Manufacturing Laboratory (AML), I designed the multi-agent architecture for <b>LitBloomer</b>—an autonomous pipeline built with Codex CLI and FastMCP servers that retrieves relevant scientific literature and translates exploratory data analysis (EDA) methodologies into guided code execution for 3D skeletonization and strut diameter profiling. We concluded the program by presenting and defending our validation results to LLNL staff scientists across the computing and materials divisions.</p>
       <p><b>Tools & Tech:</b> <i>Python, Codex CLI, FastMCP</i></p>
     </td>
