@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me 🧍🏻‍♂️"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,15 +11,15 @@ I'm a first year CS Master's student at UC San Diego. My current goals are to
 - understand modern AI from first-principles
 - apply mathematical intuition to real-world problems.
 
-Whether its through research or engineering, I plan to pursue work that fulfills my intellectual curiosity and my desire to make an impact.
+Whether its through research or engineering, I plan to pursue a career that fulfills my intellectual curiosity and my desire to do impactful work.
 
 On my free time, I love to go on walks, read human psychology books, and play chess.
 
 
-Background
+## Background
 I received my B.S. in Data Science from UC Riverside in 2026. As an undergraduate research assistant in Prof. Karamouzas’s Motion Planning Lab, I trained an MLP autoencoder on NBA player trajectories to explore their latent structure. The clusters it revealed motivated a PhD student in the lab to pursue latent-space clustering in her research.
 
-Currently, I am solidifying my understanding of dimensionality reduction, manifold learning, and representation learning through UC San Diego's course on Unsupervised Learning (CSE-251U). A project I am also currently working on involves building a Hidden Markov Model to infer the sequential states of focus in university students from the Dartmouth StudentLife dataset.---
+Currently, I am solidifying my understanding of dimensionality reduction, manifold learning, and representation learning through UC San Diego's course on Unsupervised Learning (CSE-251U). A project I am also currently working on involves building a Hidden Markov Model (HMM) to infer the sequential states of focus in university students from the Dartmouth StudentLife dataset.
 
 ## 💼 Experience
 
