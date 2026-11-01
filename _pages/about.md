@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a first year CS Master's student at UC San Diego. My current goals are to 
-- understand modern AI from first principles
+- understand modern AI from first principles.
 - apply mathematical intuition to real-world problems.
 
 Whether it's through research or engineering, I plan to pursue a career that fulfills my intellectual curiosity and my desire to do impactful work.
