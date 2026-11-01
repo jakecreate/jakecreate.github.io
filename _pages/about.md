@@ -13,8 +13,7 @@ I'm a first year CS Master's student at UC San Diego. My current goals are to
 
 Whether its through research or engineering, I plan to pursue a career that fulfills my intellectual curiosity and my desire to do impactful work.
 
-On my free time, I love to go on walks, read human psychology books, and play chess.
-
+In my free time, I love going on walks, reading books on human psychology, playing chess, and recreational coding in vim, all of which keep my brain wrinkled 🧠.
 
 ## Background
 I received my B.S. in Data Science from UC Riverside in 2026. As an undergraduate research assistant in Prof. Karamouzas’s Motion Planning Lab, I trained an MLP autoencoder on NBA player trajectories to explore their latent structure. The clusters it revealed motivated a PhD student in the lab to pursue latent-space clustering in her research.
