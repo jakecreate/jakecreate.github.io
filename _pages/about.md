@@ -1,29 +1,25 @@
 ---
 permalink: /
-title: "Hi, I'm Jake 👋"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year M.S. student in Computer Science at **UC San Diego** (B.S. in Data Science, **UC Riverside**). I came to graduate school driven by two things: an intellectual curiosity about how modern AI systems actually work under the hood, and a desire to do purposeful work that applies these systems to high-impact problems in science and society.
+I'm a first year CS Master's student at UC San Diego. My current goals are to 
+- understand modern AI from first-principles
+- apply mathematical intuition to real-world problems.
 
-Specifically, I am fascinated by **representation learning**—how models capture complex structure from raw data, and how we can interpret and leverage those learned representations for downstream tasks across domains like biology, healthcare, and other high-impact fields. Lately, I have been working with **Hidden Markov Models (HMMs)** to infer latent states in sequential data, while exploring **mechanistic interpretability** as a lens to better understand and steer what models learn internally. 
+Whether its through research or engineering, I plan to pursue work that fulfills my intellectual curiosity and my desire to make an impact.
 
-Whether through research or engineering, my goal is to build a deep, adaptable toolkit for designing reliable AI systems that solve meaningful real-world problems.
+On my free time, I love to go on walks, read human psychology books, and play chess.
 
-In my free time, I love playing chess, reading books on human psychology, hiking, and singing.
 
----
+Background
+I received my B.S. in Data Science from UC Riverside in 2026. As an undergraduate research assistant in Prof. Karamouzas’s Motion Planning Lab, I trained an MLP autoencoder on NBA player trajectories to explore their latent structure. The clusters it revealed motivated a PhD student in the lab to pursue latent-space clustering in her research.
 
-## 🧠 Learning from First Principles
-
-With modern libraries, it is easy to train models without ever looking under the hood. However, I believe that reasoning from first principles is not only essential for truly understanding a system, but also the best catalyst for coming up with novel solutions to computational problems and advancing the field. Beyond that, I simply love the feeling of being awe-inspired by the mathematics behind today's state-of-the-art AI.
-
-Outside of class, I spend my free time going down mathematical rabbit holes—whether that means tracing the proof for why the Gaussian distribution satisfies the second axiom of probability, or deriving the forward-backward dynamics of Hidden Markov Models from scratch. For me, the most rewarding part of machine learning is when a mathematical derivation finally clicks and informs how we design, debug, or apply a model in practice.
-
----
+Currently, I am solidifying my understanding of dimensionality reduction, manifold learning, and representation learning through UC San Diego's course on Unsupervised Learning (CSE-251U). A project I am also currently working on involves building a Hidden Markov Model to infer the sequential states of focus in university students from the Dartmouth StudentLife dataset.---
 
 ## 💼 Experience
 
@@ -54,8 +50,6 @@ Outside of class, I spend my free time going down mathematical rabbit holes—wh
     </td>
   </tr>
 </table>
-
----
 
 ## 🚀 Featured Projects
 
@@ -102,8 +96,6 @@ Outside of class, I spend my free time going down mathematical rabbit holes—wh
     </td>
   </tr>
 </table>
-
----
 
 ## 📬 Let's Connect
 
